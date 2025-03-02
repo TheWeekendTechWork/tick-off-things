@@ -1,0 +1,15 @@
+.App-header {
+    background-color: #f5f5dc; /* Beige background */
+    padding: 20px;
+    color: #4b0082; /* Indigo text color */
+    text-align: center;
+    border-bottom: 5px solid #8b4513; /* SaddleBrown border */
+    font-family: "Garamond", serif; /* Serif font */
+}
+
+.App-header h1 {
+    margin: 0;
+    font-size: 3rem;
+    text-shadow: 2px 2px #d2b48c; /* Tan shadow for a 3D effect */
+    letter-spacing: 2px;
+}
